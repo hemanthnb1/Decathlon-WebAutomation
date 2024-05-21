@@ -1,1 +1,1 @@
-# Decathlon-WebAutomation
+# Decathlon-Web-Automation
